@@ -1,3 +1,3 @@
 <nav class="nav">
-  Navigation goes here
+  <?php echo $navList; ?>
 </nav>

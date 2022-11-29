@@ -4,7 +4,7 @@
 
 function phpbooksConnect() {
   $server = 'localhost';
-  $dbname = 'phpbooksf';
+  $dbname = 'phpbooks';
   $username = 'iUser';
   $password = '[]tTpgjEud/gAkx)';
   $dsn = "mysql:host=$server;dbname=$dbname";
